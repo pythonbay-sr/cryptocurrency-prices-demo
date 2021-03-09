@@ -5,7 +5,6 @@ Cryptocurrency Prices Demo is a GUI software made to scrape data about cryptocur
 
 Photos : 
 
-
 Main Window : 
 
 ![alt text](https://github.com/nikolakosticc/cryptocurrency-prices-demo/blob/main/images/home_photo.png)
