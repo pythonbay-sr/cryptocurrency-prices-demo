@@ -6,20 +6,20 @@ Cryptocurrency Prices Demo is a GUI software made to scrape data about cryptocur
 Photos : 
 
 Main Window : 
-
 ![alt text](https://github.com/nikolakosticc/cryptocurrency-prices-demo/blob/main/images/home_photo.png)
 
-
 Save Button on Menu Bar : 
-
 ![alt text](https://github.com/nikolakosticc/cryptocurrency-prices-demo/blob/main/images/save_photo.png)
 
-
 Values from Main Window that are saved in "cryptocurrency_values.xls" Excel File : 
-
 ![alt text](https://github.com/nikolakosticc/cryptocurrency-prices-demo/blob/main/images/excel_photo.png)
 
-
 Help Window : 
-
 ![alt text](https://github.com/nikolakosticc/cryptocurrency-prices-demo/blob/main/images/help_photo.png)
+
+
+# How to run
+
+1. Install tkinter module : pip install tkinter
+2. Install BeautifulSoup : pip install bs4
+3. Run the main.py file
