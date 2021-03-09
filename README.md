@@ -25,5 +25,8 @@ Help Window :
 # How to run
 
 1. Install tkinter module : pip install tkinter
-2. Install BeautifulSoup : pip install bs4
-3. Run the main.py file
+2. Install BeautifulSoup module : pip install bs4
+3. Install requests module : pip install requests
+4. Install pip install urllib3 module
+5. Install xlwt module : pip install xlwt
+6. Run the main.py file
